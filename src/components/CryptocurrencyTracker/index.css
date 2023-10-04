@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.tracker-con {
+  background-color: #000000;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
